@@ -1,3 +1,3 @@
 from CoinGeckoAssignment import *
-n = int(input())
-GetCoins(n)
+k = int(input())
+GetCoins(k)
