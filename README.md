@@ -1,6 +1,6 @@
 # py1assignment
 # CoinGecko API wrapper
-![Build Status](https://github.com/kagesaburo27/py1assignment/workflows/python-app/badge.svg)
+![Build Status](https://github.com/kagesaburo27/py1assignment/workflows/pytesting/badge.svg)
 
 Python3 wrapper around the [CoinGecko](https://www.coingecko.com/) API (V3)
 
