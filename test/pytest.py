@@ -1,3 +1,3 @@
-from CoinGeckoAssignment import *
-k = int(input())
-GetCoins(k)
+import sys
+sys.path.append('.')
+from src.CoinGeckoAssignment import *
